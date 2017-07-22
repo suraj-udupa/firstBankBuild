@@ -1,0 +1,32 @@
+﻿@if (Session["UID"] != null)
+{
+    <ul class="nav navbar-nav navbar-right">
+        @using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+        {
+        @Html.AntiForgeryToken()
+
+        <ul class="nav navbar-nav navbar-right">
+            <li>
+                <p class="username">Hello  @Session["Email"] !</p>
+            </li>
+            <li><a id="logoff" href="@Url.Action("Login","Account")">Log off</a></li>
+        </ul>
+        }
+
+    </ul>
+}
+else
+{
+        <ul class="nav navbar-nav navbar-right">
+            <li>@Html.ActionLink("Log in", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+        </ul>
+}
+
+<style>
+    .username {
+        display: block;
+        padding: 13px 15px;
+        position: relative;
+        color: #999999;
+    }
+</style>

@@ -1,0 +1,58 @@
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\FirstIslandBankCorporation.UnitTests.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\FirstIslandBankCorporation.UnitTests.pdb
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\DataObject.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\Facade.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\BusinessLogic.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\DAO.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\DataObject.pdb
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\Facade.pdb
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\BusinessLogic.pdb
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\DAO.pdb
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\obj\Debug\FirstIslandBankCorporation.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\obj\Debug\FirstIslandBankCorporation.UnitTests.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\obj\Debug\FirstIslandBankCorporation.UnitTests.pdb
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\obj\Debug\FirstIslandBankCorporation.UnitTests.csprojResolveAssemblyReference.cache
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\obj\Debug\FirstIslandBankCorporation.UnitTests.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\obj\Debug\FirstIslandBankCorporation.UnitTests.pdb
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\FirstIslandBankCorporation.UnitTests.dll.config
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\FirstIslandBankCorporation.UnitTests.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\FirstIslandBankCorporation.UnitTests.pdb
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\DataObject.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\Facade.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\BusinessLogic.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\DAO.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\DataObject.pdb
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\Facade.pdb
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\BusinessLogic.pdb
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\DAO.pdb
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\obj\Debug\FirstIslandBankCorporation.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\obj\Debug\FirstIslandBankCorporation.UnitTests.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\obj\Debug\FirstIslandBankCorporation.UnitTests.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\FirstIslandBankCorporation.UnitTests.dll.config
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\FirstIslandBankCorporation.UnitTests.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\FirstIslandBankCorporation.UnitTests.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\DataObject.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\EntityFramework.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\EntityFramework.SqlServer.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\Facade.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\nunit.framework.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\BusinessLogic.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\DAO.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\DataObject.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\EntityFramework.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\EntityFramework.SqlServer.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\Facade.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\nunit.framework.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\BusinessLogic.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\bin\Debug\DAO.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\obj\Debug\FirstIslandBankCorporation.UnitTests.csprojResolveAssemblyReference.cache
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\obj\Debug\FirstIslandBankCorporation.UnitTests.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.UnitTests\obj\Debug\FirstIslandBankCorporation.UnitTests.pdb

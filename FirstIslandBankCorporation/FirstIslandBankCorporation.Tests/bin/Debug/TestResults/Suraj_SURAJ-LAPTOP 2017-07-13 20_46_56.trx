@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="fb5e6dc3-f727-45e2-995b-a04dd0ff4fe2" name="Suraj@SURAJ-LAPTOP 2017-07-13 20:46:56" runUser="SURAJ-LAPTOP\Suraj" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="cb6341f6-0ab0-4230-a77c-facd03819a86">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Suraj_SURAJ-LAPTOP 2017-07-13 20_46_56" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2017-07-13T20:46:56.3630084+05:30" queuing="2017-07-13T20:46:56.9264960+05:30" start="2017-07-13T20:46:57.0578422+05:30" finish="2017-07-13T20:47:10.0670803+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ViewMiniStatement" storage="firstislandbankcorporation.tests.dll" id="f987c336-ec19-d572-5523-23232b5fc6fd">
+      <Execution id="56e44716-c4ac-421a-85bf-08a7c523944c" />
+      <TestMethod codeBase="E:/ThinkSimple/ContinousIntegration/Evaluator Pack/FirstIslandBankCorporation/FirstIslandBankCorporation.Tests/bin/Debug/FirstIslandBankCorporation.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FirstIslandBankCorporation.Tests.Controllers.MiniStatementControllerTest, FirstIslandBankCorporation.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ViewMiniStatement" />
+    </UnitTest>
+    <UnitTest name="Login" storage="firstislandbankcorporation.tests.dll" id="903e39f9-e627-7a10-93a4-db0c5f7e34d2">
+      <Execution id="8a8a81a6-0478-4568-978b-e2eca9b3913b" />
+      <TestMethod codeBase="E:/ThinkSimple/ContinousIntegration/Evaluator Pack/FirstIslandBankCorporation/FirstIslandBankCorporation.Tests/bin/Debug/FirstIslandBankCorporation.Tests.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FirstIslandBankCorporation.Tests.Controllers.MiniStatementControllerTest, FirstIslandBankCorporation.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Login" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="903e39f9-e627-7a10-93a4-db0c5f7e34d2" executionId="8a8a81a6-0478-4568-978b-e2eca9b3913b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f987c336-ec19-d572-5523-23232b5fc6fd" executionId="56e44716-c4ac-421a-85bf-08a7c523944c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="8a8a81a6-0478-4568-978b-e2eca9b3913b" testId="903e39f9-e627-7a10-93a4-db0c5f7e34d2" testName="Login" computerName="SURAJ-LAPTOP" duration="00:00:06.2935845" startTime="2017-07-13T20:46:57.1160024+05:30" endTime="2017-07-13T20:47:07.5611323+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8a8a81a6-0478-4568-978b-e2eca9b3913b">
+    </UnitTestResult>
+    <UnitTestResult executionId="56e44716-c4ac-421a-85bf-08a7c523944c" testId="f987c336-ec19-d572-5523-23232b5fc6fd" testName="ViewMiniStatement" computerName="SURAJ-LAPTOP" duration="00:00:02.4496770" startTime="2017-07-13T20:47:07.5621361+05:30" endTime="2017-07-13T20:47:10.0139398+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="56e44716-c4ac-421a-85bf-08a7c523944c">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,345 @@
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.Tests.dll.config
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.Tests.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.Tests.pdb
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\WebDriver.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Owin.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DataObject.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Facade.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\ClosedXML.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\BusinessLogic.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DAO.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.pdb
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\WebDriver.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DataObject.pdb
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Facade.pdb
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\ClosedXML.pdb
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\BusinessLogic.pdb
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DAO.pdb
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\obj\Debug\FirstIslandBankCorporation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\obj\Debug\FirstIslandBankCorporation.Tests.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\obj\Debug\FirstIslandBankCorporation.Tests.pdb
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.Tests.dll.config
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.Tests.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.Tests.pdb
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\WebDriver.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Owin.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DataObject.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Facade.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\ClosedXML.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\BusinessLogic.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DAO.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.pdb
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\WebDriver.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DataObject.pdb
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Facade.pdb
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\ClosedXML.pdb
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\BusinessLogic.pdb
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DAO.pdb
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\obj\Debug\FirstIslandBankCorporation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\obj\Debug\FirstIslandBankCorporation.Tests.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\obj\Debug\FirstIslandBankCorporation.Tests.pdb
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\csc.exe
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\vbc.exe
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.Tests.dll.config
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.Tests.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.Tests.pdb
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Helpers.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Mvc.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Razor.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\WebDriver.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.Owin.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Optimization.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Owin.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DataObject.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Facade.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\ClosedXML.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\BusinessLogic.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DocumentFormat.OpenXml.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DAO.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.pdb
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Helpers.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Mvc.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Razor.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\WebDriver.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.Owin.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Optimization.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DataObject.pdb
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Facade.pdb
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\ClosedXML.pdb
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\BusinessLogic.pdb
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DAO.pdb
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\obj\Debug\FirstIslandBankCorporation.Tests.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\obj\Debug\FirstIslandBankCorporation.Tests.pdb
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\obj\Debug\FirstIslandBankCorporation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.Tests.dll.config
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.Tests.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.Tests.pdb
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\WebDriver.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Owin.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DataObject.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Facade.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\BusinessLogic.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DAO.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.pdb
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\WebDriver.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DataObject.pdb
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Facade.pdb
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\BusinessLogic.pdb
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DAO.pdb
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\obj\Debug\FirstIslandBankCorporation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\obj\Debug\FirstIslandBankCorporation.Tests.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\obj\Debug\FirstIslandBankCorporation.Tests.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\csc.exe
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\vbc.exe
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.Tests.dll.config
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.Tests.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.Tests.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Helpers.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Mvc.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Razor.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\WebDriver.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.Owin.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Optimization.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Owin.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DataObject.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Facade.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\BusinessLogic.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DAO.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\EntityFramework.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Helpers.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Mvc.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Razor.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\WebDriver.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.Owin.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Optimization.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DataObject.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Facade.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\BusinessLogic.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DAO.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\EntityFramework.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\obj\Debug\FirstIslandBankCorporation.Tests.csprojResolveAssemblyReference.cache
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\obj\Debug\FirstIslandBankCorporation.Tests.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\obj\Debug\FirstIslandBankCorporation.Tests.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\csc.exe
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\vbc.exe
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.Tests.dll.config
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.Tests.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.Tests.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Helpers.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Mvc.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Razor.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\WebDriver.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.Owin.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Optimization.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Owin.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DataObject.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Facade.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\BusinessLogic.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DAO.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\EntityFramework.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\FirstIslandBankCorporation.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Helpers.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Mvc.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Razor.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\WebDriver.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.Owin.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\System.Web.Optimization.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DataObject.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Facade.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\BusinessLogic.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\DAO.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\bin\Debug\EntityFramework.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\obj\Debug\FirstIslandBankCorporation.Tests.csprojResolveAssemblyReference.cache
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\obj\Debug\FirstIslandBankCorporation.Tests.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation.Tests\obj\Debug\FirstIslandBankCorporation.Tests.pdb

@@ -1,0 +1,668 @@
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\csc.exe
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\vbc.exe
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\VBCSCompiler.exe
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\FirstIslandBankCorporation.dll.config
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\FirstIslandBankCorporation.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\FirstIslandBankCorporation.pdb
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Antlr3.Runtime.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\ClosedXML.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DataObject.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DocumentFormat.OpenXml.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.SqlServer.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Facade.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Newtonsoft.Json.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Owin.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.IO.Packaging.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Management.Automation.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Helpers.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Mvc.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Optimization.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Razor.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Razor.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\WebGrease.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\BusinessLogic.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DAO.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\ClosedXML.pdb
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DataObject.pdb
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Facade.pdb
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Helpers.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Mvc.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Optimization.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Razor.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Razor.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Antlr3.Runtime.pdb
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Newtonsoft.Json.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.SqlServer.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\BusinessLogic.pdb
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DAO.pdb
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\FirstIslandBankCorporation.csprojResolveAssemblyReference.cache
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\FirstIslandBankCorporation.dll
+C:\Users\upendra\Documents\Visual Studio 2015\Projects\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\FirstIslandBankCorporation.pdb
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\csc.exe
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\vbc.exe
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\VBCSCompiler.exe
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\FirstIslandBankCorporation.dll.config
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\FirstIslandBankCorporation.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\FirstIslandBankCorporation.pdb
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Antlr3.Runtime.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\ClosedXML.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DataObject.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DocumentFormat.OpenXml.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.SqlServer.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Facade.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Newtonsoft.Json.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Owin.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.IO.Packaging.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Management.Automation.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Helpers.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Mvc.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Optimization.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Razor.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Razor.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\WebGrease.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\BusinessLogic.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DAO.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\ClosedXML.pdb
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DataObject.pdb
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Facade.pdb
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Helpers.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Mvc.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Optimization.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Razor.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Razor.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Antlr3.Runtime.pdb
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Newtonsoft.Json.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.SqlServer.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\BusinessLogic.pdb
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DAO.pdb
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\FirstIslandBankCorporation.csprojResolveAssemblyReference.cache
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\FirstIslandBankCorporation.dll
+C:\Users\upendra\Downloads\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\FirstIslandBankCorporation.pdb
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\csc.exe
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\System.Collections.Immutable.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\System.Reflection.Metadata.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\vbc.exe
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\VBCSCompiler.exe
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\VBCSCompiler.exe.config
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\FirstIslandBankCorporation.dll.config
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\FirstIslandBankCorporation.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\FirstIslandBankCorporation.pdb
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Antlr3.Runtime.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\ClosedXML.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DataObject.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DocumentFormat.OpenXml.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.SqlServer.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Facade.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Core.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Cookies.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Facebook.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Google.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.OAuth.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Twitter.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Web.Infrastructure.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Newtonsoft.Json.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Owin.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.IO.Packaging.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Management.Automation.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Helpers.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Mvc.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Optimization.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Razor.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Deployment.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Razor.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\WebGrease.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\BusinessLogic.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DAO.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\ClosedXML.pdb
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DataObject.pdb
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Facade.pdb
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Helpers.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Mvc.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Optimization.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Razor.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Deployment.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Razor.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Antlr3.Runtime.pdb
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Newtonsoft.Json.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.SqlServer.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Core.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Facebook.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Cookies.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.OAuth.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Google.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Twitter.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\BusinessLogic.pdb
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DAO.pdb
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\FirstIslandBankCorporation.csprojResolveAssemblyReference.cache
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\FirstIslandBankCorporation.dll
+E:\CS_01_G6_Banking_dotNET_MVC\CS_01_G6_01_MiniStatement\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\FirstIslandBankCorporation.pdb
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\csc.exe
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\FirstIslandBankCorporation.dll.config
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\FirstIslandBankCorporation.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\FirstIslandBankCorporation.pdb
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\ClosedXML.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DataObject.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DocumentFormat.OpenXml.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EPPlus.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Facade.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Owin.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.IO.Packaging.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Management.Automation.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\WebGrease.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\BusinessLogic.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DAO.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\ClosedXML.pdb
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DataObject.pdb
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EPPlus.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Facade.pdb
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\BusinessLogic.pdb
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DAO.pdb
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\FirstIslandBankCorporation.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\FirstIslandBankCorporation.dll
+C:\Users\user\Desktop\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\FirstIslandBankCorporation.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\csc.exe
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\System.Collections.Immutable.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\System.Reflection.Metadata.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\vbc.exe
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\VBCSCompiler.exe
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\VBCSCompiler.exe.config
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\FirstIslandBankCorporation.dll.config
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\FirstIslandBankCorporation.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\FirstIslandBankCorporation.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Antlr3.Runtime.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\ClosedXML.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DataObject.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DocumentFormat.OpenXml.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.SqlServer.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EPPlus.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Facade.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Google.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Web.Infrastructure.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Newtonsoft.Json.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Owin.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.IO.Packaging.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Management.Automation.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Helpers.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Mvc.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Optimization.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Razor.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Deployment.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Razor.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\WebGrease.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\BusinessLogic.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DAO.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\ClosedXML.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DataObject.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EPPlus.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Facade.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Helpers.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Mvc.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Optimization.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Razor.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Deployment.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Razor.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Antlr3.Runtime.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Newtonsoft.Json.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.SqlServer.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Google.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\BusinessLogic.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DAO.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\FirstIslandBankCorporation.csprojResolveAssemblyReference.cache
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\FirstIslandBankCorporation.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\FirstIslandBankCorporation.pdb
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\csc.exe
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\System.Collections.Immutable.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\System.Reflection.Metadata.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\vbc.exe
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\VBCSCompiler.exe
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\VBCSCompiler.exe.config
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\FirstIslandBankCorporation.dll.config
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\FirstIslandBankCorporation.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\FirstIslandBankCorporation.pdb
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Antlr3.Runtime.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\ClosedXML.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DataObject.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DocumentFormat.OpenXml.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.SqlServer.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EPPlus.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Facade.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Google.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Web.Infrastructure.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Newtonsoft.Json.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Owin.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.IO.Packaging.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Management.Automation.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Helpers.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Mvc.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Optimization.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Razor.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Deployment.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Razor.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\WebGrease.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\BusinessLogic.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DAO.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\ClosedXML.pdb
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DataObject.pdb
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EPPlus.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Facade.pdb
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Helpers.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Mvc.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Optimization.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Razor.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Deployment.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Razor.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Antlr3.Runtime.pdb
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Newtonsoft.Json.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.SqlServer.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Google.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\BusinessLogic.pdb
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DAO.pdb
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\FirstIslandBankCorporation.csprojResolveAssemblyReference.cache
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\FirstIslandBankCorporation.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\FirstIslandBankCorporation.pdb
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\FirstIslandBankCorporation.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\FirstIslandBankCorporation.pdb
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Content\bootstrap.css
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Content\bootstrap.min.css
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\favicon.ico
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\fonts\glyphicons-halflings-regular.svg
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Global.asax
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Content\Site.css
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Scripts\bootstrap.js
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Scripts\bootstrap.min.js
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Scripts\jquery-1.10.2.js
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Scripts\jquery-1.10.2.min.js
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Scripts\jquery.validate.js
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Scripts\jquery.validate.min.js
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Scripts\jquery.validate.unobtrusive.js
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Scripts\jquery.validate.unobtrusive.min.js
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Scripts\modernizr-2.6.2.js
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Scripts\respond.js
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Scripts\respond.min.js
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Scripts\_references.js
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Views\Web.config
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Views\_ViewStart.cshtml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Views\Shared\_Layout.cshtml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Views\Home\Index.cshtml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Views\Account\Login.cshtml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Views\Shared\_LoginPartial.cshtml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Views\MiniStatement\ViewMiniStatement.cshtml
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\fonts\glyphicons-halflings-regular.woff
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\fonts\glyphicons-halflings-regular.ttf
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\fonts\glyphicons-halflings-regular.eot
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\packages.config
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Scripts\jquery-1.10.2.min.map
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\Antlr3.Runtime.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\ClosedXML.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\DataObject.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\DocumentFormat.OpenXml.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\EntityFramework.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\EntityFramework.SqlServer.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\EPPlus.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\Facade.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\Microsoft.Owin.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\Microsoft.Owin.Security.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\Microsoft.Owin.Security.Google.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\Microsoft.Web.Infrastructure.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\Newtonsoft.Json.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\Owin.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\System.IO.Packaging.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\System.Management.Automation.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\System.Web.Helpers.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\System.Web.Mvc.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\System.Web.Optimization.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\System.Web.Razor.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\System.Web.WebPages.Deployment.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\System.Web.WebPages.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\System.Web.WebPages.Razor.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\WebGrease.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\BusinessLogic.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\DAO.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\ClosedXML.pdb
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\DataObject.pdb
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\Facade.pdb
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\Antlr3.Runtime.pdb
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\BusinessLogic.pdb
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\DAO.pdb
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\roslyn\csc.exe
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\roslyn\System.Collections.Immutable.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\roslyn\System.Reflection.Metadata.dll
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\roslyn\vbc.exe
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\roslyn\VBCSCompiler.exe
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\bin\roslyn\VBCSCompiler.exe.config
+E:\ThinkSimple\ContinousIntegration\AspWebApp\ASP-GitChkout\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\Package\PackageTmp\Web.config
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\csc.exe
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\System.Collections.Immutable.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\System.Reflection.Metadata.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\vbc.exe
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\VBCSCompiler.exe
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\roslyn\VBCSCompiler.exe.config
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\FirstIslandBankCorporation.dll.config
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\FirstIslandBankCorporation.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\FirstIslandBankCorporation.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Antlr3.Runtime.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\ClosedXML.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DataObject.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DocumentFormat.OpenXml.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.SqlServer.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EPPlus.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Facade.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Google.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Web.Infrastructure.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Newtonsoft.Json.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Owin.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.IO.Packaging.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Management.Automation.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Helpers.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Mvc.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Optimization.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Razor.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Deployment.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Razor.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\WebGrease.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\BusinessLogic.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DAO.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\ClosedXML.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DataObject.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EPPlus.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Facade.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Helpers.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Mvc.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Optimization.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.Razor.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Deployment.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\System.Web.WebPages.Razor.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Antlr3.Runtime.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Newtonsoft.Json.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\EntityFramework.SqlServer.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Google.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\BusinessLogic.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\bin\DAO.pdb
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\FirstIslandBankCorporation.csprojResolveAssemblyReference.cache
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\FirstIslandBankCorporation.dll
+E:\ThinkSimple\ContinousIntegration\Evaluator Pack\GItPAth\FirstIslandBankCorporation\FirstIslandBankCorporation\obj\Debug\FirstIslandBankCorporation.pdb

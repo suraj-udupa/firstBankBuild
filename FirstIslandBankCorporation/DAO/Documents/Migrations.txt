@@ -1,0 +1,8 @@
+﻿Enable-Migrations -ContextTypeName MiniStatementContext -MigrationsDirectory Migrations\MiniStatement
+
+add-migration -ConfigurationTypeName DAO.Migrations.MiniStatement.Configuration "InitialCreate"
+
+update-database -ConfigurationTypeName DAO.Migrations.MiniStatement.Configuration
+
+---Automigrations----
+Enable-Migrations -EnableAutomaticMigrations:$true
